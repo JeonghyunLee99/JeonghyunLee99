@@ -2,6 +2,12 @@
 
 # :hand: Welcome to JeonghyunLee github
 
+
+
+![email](https://img.shields.io/badge/sump99@naver.com-green?logo=messenger&logoColor=fff)
+[![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006429959555)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rattaworld/)
+
 ## :office: Career
 
 - [City University of Hong Kong Summer Exchange Program](https://www.cityu.edu.hk/ceng/student-life/student-exchange/inbound-exchange/summer-exchange-programmes) - Basic Hardware Design and Programming, Basic App Programming for Bluetooth Motion Control (2019. 07 ~ 2019. 08)
@@ -11,7 +17,7 @@
 ## :school: Academic background
 
 - [세명컴퓨터고등학교](http://smc.sen.hs.kr/index.do) 스마트콘텐츠과 졸업 (2018. 02)
-- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 재학중 (2019. 03 ~)
+- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 재학중 (2019. 03 ~ 현재) 
 
 ## :wrench: Technology Stack
 
