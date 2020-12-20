@@ -14,6 +14,7 @@
 - [통일 적정기술 Maker's 해커톤 대회](http://swcu.dankook.ac.kr/web/swcup/-13?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=704492) 최우수상 (2019. 08)
 - [2019 SW인재 페스티벌](http://haniumexpo.kr/main/) 단국대학교 대표 크린토피아 팀 부스 운영 (2019. 12)
 - [단국대학교 개발자 스터디](https://github.com/DKU-STUDY) (2020. 08 ~ 현재)
+- [단국대학교 4D 어드벤처디자인 듀얼링킹(HW-SW) 역량 강화 경진대회 로봇 레슬링 종목](https://www.dankook.ac.kr/widget/web/kor/-390?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_orderBy=createDate&_Bbs_WAR_bbsportlet_curPage=1&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=727668) 최우수상 (2020. 11)
 
 ## 🔭 Certificate
 
