@@ -6,7 +6,7 @@
 
 ![email](https://img.shields.io/badge/sump99@naver.com-green?logo=messenger&logoColor=fff)
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006429959555)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/rattaworld/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prezi.info/)
 
 ## :office: Career
 
