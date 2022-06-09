@@ -18,7 +18,7 @@
 - [단국대학교 2020 디자인씽킹 부트캠프](https://youtu.be/l-GKDqbRdvw) 최우수팀 선정 (2020. 11)
 - [KISTI-세종대학교 빅데이터·AI 겨울학교](https://kacademy.kisti.re.kr/ko/course/view/f1bf3af9e5c64b1c9d8ad7c5c6e09363/1) 수료 (2020. 12)
 - [단국대학교 취창업지원처 글로벌창업혁신센터 대학생 해외창업을 위한 '글로벌 창업메이트'](https://www.1cup.kr/course/21118) 우수상 (2021. 01)
-- [대한민국 육군 국군지휘통신사령부 M/W운용정비병](https://namu.wiki/w/%EA%B5%AD%EA%B5%B0%EC%A7%80%ED%9C%98%ED%86%B5%EC%8B%A0%EC%82%AC%EB%A0%B9%EB%B6%80) (2021. 02 ~ 2022. 06)
+- [대한민국 육군 국군지휘통신사령부 M/W통신병](https://namu.wiki/w/%EA%B5%AD%EA%B5%B0%EC%A7%80%ED%9C%98%ED%86%B5%EC%8B%A0%EC%82%AC%EB%A0%B9%EB%B6%80) (2021. 02 ~ 2022. 05)
 - [단국대학교 개발·보안 중앙 동아리 Aegis 준회원](https://dk-aegis.org/xe/index.php) (2022. 03 ~ 현재)
 
 ## 🔭 Certificate
