@@ -1,8 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sump99)](https://hits.seeyoufarm.com)
-
 # :hand: Welcome to JeonghyunLee github
-
-
 
 ![email](https://img.shields.io/badge/sump99@naver.com-green?logo=messenger&logoColor=fff)
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006429959555)
@@ -20,7 +16,7 @@
 - [단국대학교 취창업지원처 글로벌창업혁신센터 대학생 해외창업을 위한 '글로벌 창업메이트'](https://www.1cup.kr/course/21118) 우수상 (2021. 01)
 - [대한민국 육군 국군지휘통신사령부 M/W통신병](https://namu.wiki/w/%EA%B5%AD%EA%B5%B0%EC%A7%80%ED%9C%98%ED%86%B5%EC%8B%A0%EC%82%AC%EB%A0%B9%EB%B6%80) (2021. 02 ~ 2022. 05)
 - [단국대학교 개발·보안 중앙 동아리 Aegis 준회원](https://dk-aegis.org/xe/index.php) (2022. 03 ~ 현재)
-- [한국정보통신기술협회(TTA)](https://www.tta.or.kr/tta/index.do) 소프트웨어시험인증연구소 (2024.07 ~ 현재)
+- [한국정보통신기술협회(TTA)](https://www.tta.or.kr/tta/index.do) 소프트웨어시험인증연구소 (2024.07 ~ 2024.12)
 
 ## 🔭 Certificate
 
@@ -35,8 +31,7 @@
 
 ## :school: Academic background
 
-- [세명컴퓨터고등학교](http://smc.sen.hs.kr/index.do) 스마트콘텐츠과 졸업 (2018. 02)
-- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 휴학 (2019. 03 ~ 현재) 
+- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 재학 (2019. 03 ~ 현재) 
 
 ## :wrench: Technology Stack
 
