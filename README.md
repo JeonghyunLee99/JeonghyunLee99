@@ -2,7 +2,7 @@
 
 ![email](https://img.shields.io/badge/sump99@naver.com-green?logo=messenger&logoColor=fff)
 [![facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100006429959555)
-[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prezi.info/)
+[![Instagram](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/prezikorea/)
 
 ## :office: Career
 
@@ -31,7 +31,7 @@
 
 ## :school: Academic background
 
-- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 재학 (2019. 03 ~ 현재) 
+- [단국대학교](https://dankook.ac.kr/) 소프트웨어학과 졸업 GPA 4.1/4.5 (2019.03 ~ 2025.08) 
 
 ## :wrench: Technology Stack
 
